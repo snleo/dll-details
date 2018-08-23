@@ -1,2 +1,2 @@
-# dll-details
-.net project simply examine dll
+# dotnet-fileinfo
+.net project to examine dll
